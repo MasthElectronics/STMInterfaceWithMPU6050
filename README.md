@@ -6,4 +6,4 @@ Projects include basic interfacing and creative LED pattern control
 using tilt and shake gestures.
 
 ## 🎥 YouTube
-Watch the full video here: [YouTube Link]
+Watch the full video here: [Updated Soon]
